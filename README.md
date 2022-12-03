@@ -17,7 +17,7 @@ Unity il2cpp reverse engineer
 * Support bypassing simple PE protection
 
 ## Usage
-
+dhhshs
 Run `Il2CppDumper.exe` and choose the il2cpp executable file and `global-metadata.dat` file, then enter the information as prompted
 
 The program will then generate all the output files in current working directory
@@ -40,14 +40,14 @@ Can be used to extract Unity `MonoBehaviour` and `MonoScript`, for [UtinyRipper]
 
 #### ida.py
 
-For IDA
+For ID
 
 #### ida_with_struct.py
 
 For IDA, read il2cpp.h file and apply structure information in IDA
 
 #### il2cpp.h
-
+wwhhahshshhs
 structure information header file
 
 #### ghidra.py
